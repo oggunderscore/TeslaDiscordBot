@@ -1,2 +1,5 @@
-# LameTeslaApp
-The Lamest of the Lame.
+## Tesla Discord Bot App
+
+DEPENDENCIES: NODEMON
+
+
